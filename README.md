@@ -1,5 +1,8 @@
-#Develop by Nguyễn Văn Hải, Đinh Nguyễn Thiên Ân, Trương Minh Hoàng
-#Completed in 23/06/2020
+###Developer 
+
+Nguyễn Văn Hải, Đinh Nguyễn Thiên Ân, Trương Minh Hoàng
+
+###Completed in 23/06/2020
 
 # Node.js & Passport Login
 
